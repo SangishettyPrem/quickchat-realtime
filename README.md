@@ -17,12 +17,6 @@ A real-time chat application with video calling, typing indicators, online statu
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your app here in future, e.g. login screen, chat interface, video call screen, etc.)*
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
